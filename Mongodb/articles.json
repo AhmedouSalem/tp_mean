@@ -1,0 +1,92 @@
+[
+    {
+        "nom": "iPhone 16 Pro",
+        "marque": "Apple",
+        "prix": 1859.99,
+        "descr": "Smartphone très haut de gamme",
+        "rayon": "Téléphonie",
+        "detail": "5G, 6,3 pouces, 1 To",
+        "stock": 8
+    },
+    {
+        "nom": "Samsung Galaxy Z Flip 6",
+        "marque": "Samsung",
+        "prix": 989.99,
+        "descr": "Smartphone très haut de gamme avec écran OLED",
+        "rayon": "Téléphonie",
+        "detail": "5G, 256 Go",
+        "stock": 14
+    },
+    {
+        "nom": "Samsung Galaxy A15",
+        "marque": "Samsung",
+        "prix": 249.00,
+        "descr": "Smartphone haut de gamme avec écran Super AMOLED",
+        "rayon": "Téléphonie",
+        "detail": "5G, 6.5 pouces, 128 Go",
+        "stock": 25
+    },
+    {
+        "nom": "Google Pixel 8",
+        "marque": "Google",
+        "prix": 599.99,
+        "descr": "Intègre l'IA de Google",
+        "rayon": "Téléphonie",
+        "detail": "5G, 256 Go",
+        "stock": 7
+    },
+    {
+        "nom": "HP Victus 16",
+        "marque": "HP",
+        "prix": 1199.99,
+        "descr": "Ordinateur portable puissant pour le gaming",
+        "rayon": "Informatique",
+        "detail": "AMD Ryzen 7, 32 Go RAM, écran full HD",
+        "stock": 3
+    },
+    {
+        "nom": "MacBook Air",
+        "marque": "Apple",
+        "prix": 1099.00,
+        "descr": "Ordinateur polyvalent",
+        "rayon": "Informatique",
+        "detail": "Ecran 13,6 pouces, Apple M3, 16 Go RAM, 256 Go SSD",
+        "stock": 15
+    },
+    {
+        "nom": "Asus Vivobook 15X",
+        "marque": "Asus",
+        "prix": 549.00,
+        "descr": "Ordinateur idéal pour la bureautique",
+        "rayon": "Informatique",
+        "detail": "AMD Ryzen 7, 16 Go RAM 512 Go DD",
+        "stock": 6
+    },
+    {
+        "nom": "Inspiron 15 3520",
+        "marque": "Dell",
+        "prix": 439.00,
+        "descr": "Un ordinateur",
+        "rayon": "Informatique",
+        "detail": "Intel Core i3, écran 15.6, 8 Go RAM",
+        "stock": 12
+    },
+    {
+        "nom": "iPad 10,9 pouces",
+        "marque": "Apple",
+        "prix": 399.00,
+        "descr": "Tablette avec écran haute résolution",
+        "rayon": "Informatique",
+        "detail": "64G, écran Retina",
+        "stock": 5
+    },
+    {
+        "nom": "Tablette Archos T101",
+        "marque": "Archos",
+        "prix": 129.97,
+        "descr": "Tablette tactile pour la consommation multimédia",
+        "rayon": "Informatique",
+        "detail": "4G, wifi, Écran 10 pouces FH  D, Android",
+        "stock": 10
+    }
+]

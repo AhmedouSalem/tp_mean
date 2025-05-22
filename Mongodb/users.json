@@ -1,0 +1,23 @@
+[
+    {
+        "nom": "Delune",
+        "prénom": "Claire",
+        "email": "claire.delune@mailserver.fr",
+        "password": "123456",
+        "civilité": "Madame"
+    },
+    {
+        "nom": "Nett",
+        "prénom": "Jessica",
+        "email": "jessica.nett@mailserver.fr",
+        "password": "OhOh666",
+        "civilité": "Madame"
+    },
+    {
+        "nom": "Sonsuper",
+        "prénom": "Alexis",
+        "email": "alexis.sonsuper@mailserver.fr",
+        "password": "2fast4U",
+        "civilité": "Monsieur"
+    }
+]
