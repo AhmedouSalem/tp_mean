@@ -1,0 +1,13 @@
+<ul>
+    @for (produit of panier.getProduits(); track $index) {
+        <li>
+            {{produit}}
+        </li>
+    }
+</ul>
+@if (panier.getProduits().length > 0) {
+    <button (click)="viderPanier()">Vider le panier</button>
+}
+@else {
+    <p>Le panier est vide</p>
+}

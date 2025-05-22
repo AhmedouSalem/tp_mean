@@ -1,0 +1,7 @@
+<ul>
+    <li *ngFor="let article of articles">
+        {{ article.nom }}
+        ({{ article.prix }} euros)
+        <button (click)="ajouterProduit(article.nom)">Ajouter au panier</button>
+    </li>
+</ul>

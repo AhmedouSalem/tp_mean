@@ -1,0 +1,15 @@
+<form (submit)="onSubmit()">
+    <select [(ngModel)]="selectedRayon" name="rayon">
+        <option value="*" > Tous les rayons </option>
+        <option *ngFor="let rayon of rayons"> {{ rayon }} </option>
+    </select>
+    <select [(ngModel)]="selectedMarque" name="marque">
+        <option value="*"> Toutes les marques </option>
+        <option *ngFor="let marque of marques"> {{ marque }} </option>
+    </select>
+    <select [(ngModel)]="selectedPrix" name="prixMax">
+        <option value="*"> Tous les prix </option>
+        <option *ngFor="let prix of intervallesPrix" [value]="prix.max"> {{ prix.label }} </option>
+    </select>
+    <button type="submit">Rechercher</button>
+</form>
